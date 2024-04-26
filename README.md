@@ -5,6 +5,7 @@ In this project the objective is to connect the api and make it work, without sh
 
 
 It divides into 2 main files, weather, and Vacation with a few files created from the files. 
+This files are inside the folder WeatherPY including the CSV with the corresponding information. 
 
 
 The Weather maps works and generate the file of the database as it should. 
